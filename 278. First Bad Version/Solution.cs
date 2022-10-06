@@ -22,7 +22,7 @@ public class Solution : VersionControl
         {
             long middle = (lowest + highest) / 2;
 
-            if (IsBadVersion( (int)(middle + 1) ))
+            if (IsBadVersion((int)(middle + 1)))
                 highest = middle - 1;
             else
                 lowest = middle + 1;
