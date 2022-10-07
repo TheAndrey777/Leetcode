@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "704. Binary Search", "704. Binary Search\704. Binary Search.csproj", "{91B4EF36-81BE-44BE-882E-94339B6FA21F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "704. Binary Search", "704. Binary Search\704. Binary Search.csproj", "{91B4EF36-81BE-44BE-882E-94339B6FA21F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "278. First Bad Version", "278. First Bad Version\278. First Bad Version.csproj", "{05E9CFAA-B39E-4E9C-9EFD-EDFDFDC737EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "278. First Bad Version", "278. First Bad Version\278. First Bad Version.csproj", "{05E9CFAA-B39E-4E9C-9EFD-EDFDFDC737EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35. Search Insert Position", "35. Search Insert Position\35. Search Insert Position.csproj", "{DEB52FAB-D55D-4096-9347-2E4FB326A056}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "35. Search Insert Position", "35. Search Insert Position\35. Search Insert Position.csproj", "{DEB52FAB-D55D-4096-9347-2E4FB326A056}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "217. Contains Duplicate", "217. Contains Duplicate\217. Contains Duplicate.csproj", "{2F3B8E31-031F-491D-82E6-4E94964AC3F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "217. Contains Duplicate", "217. Contains Duplicate\217. Contains Duplicate.csproj", "{2F3B8E31-031F-491D-82E6-4E94964AC3F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1480. Running Sum of 1d Array", "1480. Running Sum of 1d Array\1480. Running Sum of 1d Array.csproj", "{DCDBE913-3DA2-420F-9443-20AB67ADBADE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{2F3B8E31-031F-491D-82E6-4E94964AC3F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F3B8E31-031F-491D-82E6-4E94964AC3F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F3B8E31-031F-491D-82E6-4E94964AC3F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCDBE913-3DA2-420F-9443-20AB67ADBADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCDBE913-3DA2-420F-9443-20AB67ADBADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCDBE913-3DA2-420F-9443-20AB67ADBADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCDBE913-3DA2-420F-9443-20AB67ADBADE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
