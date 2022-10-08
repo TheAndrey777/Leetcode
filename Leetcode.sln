@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "35. Search Insert Position"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "217. Contains Duplicate", "217. Contains Duplicate\217. Contains Duplicate.csproj", "{2F3B8E31-031F-491D-82E6-4E94964AC3F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1480. Running Sum of 1d Array", "1480. Running Sum of 1d Array\1480. Running Sum of 1d Array.csproj", "{DCDBE913-3DA2-420F-9443-20AB67ADBADE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1480. Running Sum of 1d Array", "1480. Running Sum of 1d Array\1480. Running Sum of 1d Array.csproj", "{DCDBE913-3DA2-420F-9443-20AB67ADBADE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "977. Squares of a Sorted Array", "977. Squares of a Sorted Array\977. Squares of a Sorted Array.csproj", "{BE8B3BC6-F2EA-4623-B115-80FC66C88C41}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{DCDBE913-3DA2-420F-9443-20AB67ADBADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCDBE913-3DA2-420F-9443-20AB67ADBADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCDBE913-3DA2-420F-9443-20AB67ADBADE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE8B3BC6-F2EA-4623-B115-80FC66C88C41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE8B3BC6-F2EA-4623-B115-80FC66C88C41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE8B3BC6-F2EA-4623-B115-80FC66C88C41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE8B3BC6-F2EA-4623-B115-80FC66C88C41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
