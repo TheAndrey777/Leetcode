@@ -4,6 +4,6 @@ internal class Program
 {
     static void Main(string[] nums)
     {
-        new Solution().MoveZeroes(new int[] { 1, 2, 0, 4, 0, 5});
+        new Solution().MoveZeroes(new int[] { 0, 1, 0, 3, 12 });
     }
 }
