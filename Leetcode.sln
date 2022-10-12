@@ -21,11 +21,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "189. Rotate Array", "189. R
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "724. Find Pivot Index", "724. Find Pivot Index\724. Find Pivot Index.csproj", "{92D1DA7B-E387-40E0-B855-AD9C5AC7F371}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "167. Two Sum II - Input Array Is Sorted", "167. Two Sum II - Input Array Is Sorted\167. Two Sum II - Input Array Is Sorted.csproj", "{A6FB0CC4-D180-48EC-ABDF-9DF0959CA33C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "167. Two Sum II - Input Array Is Sorted", "167. Two Sum II - Input Array Is Sorted\167. Two Sum II - Input Array Is Sorted.csproj", "{A6FB0CC4-D180-48EC-ABDF-9DF0959CA33C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "344. Reverse String", "344. Reverse String\344. Reverse String.csproj", "{D55CC0D0-2329-43B8-8702-8283D7B89FB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "344. Reverse String", "344. Reverse String\344. Reverse String.csproj", "{D55CC0D0-2329-43B8-8702-8283D7B89FB3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "557. Reverse Words in a String III", "557. Reverse Words in a String III\557. Reverse Words in a String III.csproj", "{AB1796FB-6344-43D5-99A4-D5D76805A3EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "557. Reverse Words in a String III", "557. Reverse Words in a String III\557. Reverse Words in a String III.csproj", "{AB1796FB-6344-43D5-99A4-D5D76805A3EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "876. Middle of the Linked List", "876. Middle of the Linked List\876. Middle of the Linked List.csproj", "{A824AB33-7473-4A44-903B-3B97A2ADB01D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{AB1796FB-6344-43D5-99A4-D5D76805A3EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB1796FB-6344-43D5-99A4-D5D76805A3EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB1796FB-6344-43D5-99A4-D5D76805A3EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A824AB33-7473-4A44-903B-3B97A2ADB01D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A824AB33-7473-4A44-903B-3B97A2ADB01D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A824AB33-7473-4A44-903B-3B97A2ADB01D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A824AB33-7473-4A44-903B-3B97A2ADB01D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
